@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\fibo\fibo\bin\Debug\netcoreapp3.1\fibo.exe
+C:\Users\ASUS\source\repos\fibo\fibo\bin\Debug\netcoreapp3.1\fibo.deps.json
+C:\Users\ASUS\source\repos\fibo\fibo\bin\Debug\netcoreapp3.1\fibo.runtimeconfig.json
+C:\Users\ASUS\source\repos\fibo\fibo\bin\Debug\netcoreapp3.1\fibo.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\fibo\fibo\bin\Debug\netcoreapp3.1\fibo.dll
+C:\Users\ASUS\source\repos\fibo\fibo\bin\Debug\netcoreapp3.1\fibo.pdb
+C:\Users\ASUS\source\repos\fibo\fibo\obj\Debug\netcoreapp3.1\fibo.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\fibo\fibo\obj\Debug\netcoreapp3.1\fibo.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\fibo\fibo\obj\Debug\netcoreapp3.1\fibo.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\fibo\fibo\obj\Debug\netcoreapp3.1\fibo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\fibo\fibo\obj\Debug\netcoreapp3.1\fibo.dll
+C:\Users\ASUS\source\repos\fibo\fibo\obj\Debug\netcoreapp3.1\fibo.pdb
+C:\Users\ASUS\source\repos\fibo\fibo\obj\Debug\netcoreapp3.1\fibo.genruntimeconfig.cache

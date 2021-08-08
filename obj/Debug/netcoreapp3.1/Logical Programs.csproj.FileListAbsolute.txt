@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\fibo\fibo\obj\Debug\netcoreapp3.1\Logical Programs.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\fibo\fibo\obj\Debug\netcoreapp3.1\Logical Programs.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\fibo\fibo\obj\Debug\netcoreapp3.1\Logical Programs.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\fibo\fibo\obj\Debug\netcoreapp3.1\Logical Programs.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\fibo\fibo\bin\Debug\netcoreapp3.1\Logical Programs.exe
+C:\Users\ASUS\source\repos\fibo\fibo\bin\Debug\netcoreapp3.1\Logical Programs.deps.json
+C:\Users\ASUS\source\repos\fibo\fibo\bin\Debug\netcoreapp3.1\Logical Programs.runtimeconfig.json
+C:\Users\ASUS\source\repos\fibo\fibo\bin\Debug\netcoreapp3.1\Logical Programs.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\fibo\fibo\bin\Debug\netcoreapp3.1\Logical Programs.dll
+C:\Users\ASUS\source\repos\fibo\fibo\bin\Debug\netcoreapp3.1\Logical Programs.pdb
+C:\Users\ASUS\source\repos\fibo\fibo\obj\Debug\netcoreapp3.1\Logical Programs.dll
+C:\Users\ASUS\source\repos\fibo\fibo\obj\Debug\netcoreapp3.1\Logical Programs.pdb
+C:\Users\ASUS\source\repos\fibo\fibo\obj\Debug\netcoreapp3.1\Logical Programs.genruntimeconfig.cache
